@@ -1,0 +1,11 @@
+compile
+run
+sbt compile
+compile
+clean
+compile
+clear
+compile
+clear
+clean
+compile

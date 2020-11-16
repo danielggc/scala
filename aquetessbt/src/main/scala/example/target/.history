@@ -1,0 +1,14 @@
+compile
+run
+~testQuick
+compile
+run
+compile
+run
+compile
+run
+clear
+clean
+~testQuick
+clean
+run

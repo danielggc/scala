@@ -1,0 +1,614 @@
+2020.07.24 00:54:18 INFO  started: Metals version 0.9.2 in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables' for client vscode.
+2020.07.24 00:54:19 INFO  time: initialize in 1.04s
+2020.07.24 00:54:22 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 00:54:22 INFO  no build target: using presentation compiler with only scala-library
+2020.07.24 00:54:25 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 12:54:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 6
+jul 24, 2020 12:54:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+2020.07.24 00:56:00 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 00:56:43 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 00:56:43 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 12:57:28 AM scala.meta.internal.pc.CompletionProvider expected$1
+ADVERTENCIA: String index out of range: -1
+2020.07.24 00:57:40 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+something's wrong: no file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala in Array[String]RangePosition(file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala, 41, 41, 54)
+2020.07.24 02:07:48 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:08:05 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:08:25 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:08:38 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 02:08:38 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:09:09 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:09:47 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:09:57 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 02:10:10 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:10:44 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:11:51 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:14:21 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:15:05 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:16:13 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:16:18 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 02:16:38 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 13:13:20 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 2:47:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1043
+2020.07.24 14:49:06 INFO  time: code lens generation in 5.95s
+2020.07.24 14:49:06 INFO  time: code lens generation in 6.55s
+jul 24, 2020 2:51:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1101
+jul 24, 2020 2:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1107
+jul 24, 2020 2:51:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1109
+jul 24, 2020 2:51:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1113
+jul 24, 2020 2:51:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+jul 24, 2020 2:51:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1139
+jul 24, 2020 2:51:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1141
+jul 24, 2020 2:51:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1146
+jul 24, 2020 2:51:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1145
+jul 24, 2020 2:51:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1147
+jul 24, 2020 2:51:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1148
+2020.07.24 14:53:21 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 14:53:58 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 14:54:16 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 2:54:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1492
+2020.07.24 14:54:36 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 2:55:17 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:504)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:413)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:405)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:390)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:182)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+jul 24, 2020 2:55:18 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:504)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:413)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:405)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:390)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:182)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+jul 24, 2020 2:55:18 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:504)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:413)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:405)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:390)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:182)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+jul 24, 2020 2:55:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:504)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:413)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:405)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:390)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:182)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+jul 24, 2020 2:58:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1571
+jul 24, 2020 2:58:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1572
+jul 24, 2020 2:59:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1665
+jul 24, 2020 2:59:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1667
+jul 24, 2020 2:59:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1666
+2020.07.24 14:59:37 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 14:59:55 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 14:59:56 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 14:59:56 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:01:12 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:01:39 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:01:46 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:03:10 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:03:28 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 3:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2070
+jul 24, 2020 3:46:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2115
+2020.07.24 15:46:13 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:46:40 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:46:40 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:46:40 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:46:40 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+2020.07.24 15:46:57 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:46:57 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:46:57 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:47:01 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 15:47:01 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/main.scala
+jul 24, 2020 8:32:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2173
+2020.07.24 21:12:50 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+jul 24, 2020 9:51:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2185
+jul 24, 2020 9:51:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2187
+jul 24, 2020 9:51:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2188
+jul 24, 2020 9:51:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2190
+jul 24, 2020 9:51:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2189
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2198
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2200
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2202
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2201
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2204
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2206
+jul 24, 2020 9:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2205
+2020.07.24 21:51:23 INFO  time: code lens generation in 1.78s
+something's wrong: no file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala in Array[<error>]RangePosition(file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala, 36, 36, 51)
+something's wrong: no file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala in Array[<error>]RangePosition(file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala, 36, 36, 48)
+something's wrong: no file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala in Array[String]RangePosition(file:///home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala, 36, 36, 49)
+jul 24, 2020 9:51:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+jul 24, 2020 9:53:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2679
+jul 24, 2020 9:53:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2681
+jul 24, 2020 9:53:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2674
+jul 24, 2020 9:53:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2680
+jul 24, 2020 9:53:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2682
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2684
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2688
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2689
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2691
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2693
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2692
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2694
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2697
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2699
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2701
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2702
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2704
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2703
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2705
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2706
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2708
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2707
+jul 24, 2020 9:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2709
+jul 24, 2020 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2711
+jul 24, 2020 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2713
+jul 24, 2020 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2712
+jul 24, 2020 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2714
+jul 24, 2020 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2718
+jul 24, 2020 9:53:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+jul 24, 2020 9:54:02 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+2020.07.24 21:58:01 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+jul 24, 2020 9:58:24 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+jul 24, 2020 9:58:24 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+jul 24, 2020 9:58:32 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3228
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3225
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3227
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3231
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3233
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3232
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3236
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3243
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3237
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3247
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3254
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3253
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3268
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3272
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3273
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3275
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3284
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3277
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3286
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3278
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3292
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3294
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3296
+jul 24, 2020 9:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3298
+jul 24, 2020 9:58:58 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+jul 24, 2020 10:05:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3681
+jul 24, 2020 10:06:05 PM scala.meta.internal.pc.CompletionProvider expected$1
+ADVERTENCIA: String index out of range: -1
+2020.07.24 22:06:19 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:08:57 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:10:50 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:12:26 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:14:51 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:15:32 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:16:25 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:16:38 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:16:59 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:17:23 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:18:37 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:18:58 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:19:26 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.24 22:19:51 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:20:00 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:21:23 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.24 22:21:29 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+jul 24, 2020 10:22:02 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+jul 24, 2020 10:22:02 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+jul 24, 2020 10:22:22 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+jul 24, 2020 10:22:22 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+2020.07.25 02:16:31 INFO  time: code lens generation in 13s
+2020.07.25 02:19:37 INFO  time: code lens generation in 1.38s
+2020.07.25 02:19:50 INFO  time: code lens generation in 6.37s
+jul 25, 2020 2:19:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4992
+jul 25, 2020 2:20:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4995
+jul 25, 2020 2:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4993
+jul 25, 2020 2:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4994
+2020.07.25 02:23:42 INFO  time: code lens generation in 1.15s
+jul 25, 2020 2:23:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5026
+jul 25, 2020 2:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5029
+jul 25, 2020 2:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5031
+jul 25, 2020 2:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5032
+jul 25, 2020 2:23:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5038
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5037
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5041
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5040
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5044
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5043
+jul 25, 2020 2:23:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5045
+jul 25, 2020 2:23:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5050
+jul 25, 2020 2:23:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5051
+jul 25, 2020 2:23:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5069
+jul 25, 2020 2:23:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5067
+jul 25, 2020 2:23:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5070
+jul 25, 2020 2:23:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5074
+jul 25, 2020 2:24:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5082
+jul 25, 2020 2:24:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5081
+jul 25, 2020 2:24:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5086
+jul 25, 2020 2:24:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5085
+jul 25, 2020 2:24:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5087
+jul 25, 2020 2:24:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5089
+jul 25, 2020 2:24:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5088
+jul 25, 2020 2:24:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5090
+jul 25, 2020 2:24:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5093
+jul 25, 2020 2:24:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5091
+jul 25, 2020 2:24:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5097
+jul 25, 2020 2:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5098
+jul 25, 2020 2:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5094
+jul 25, 2020 2:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5095
+jul 25, 2020 2:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5099
+jul 25, 2020 2:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5101
+jul 25, 2020 2:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5103
+jul 25, 2020 2:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5102
+jul 25, 2020 2:24:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5104
+jul 25, 2020 2:24:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5106
+jul 25, 2020 2:24:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5111
+2020.07.25 02:24:21 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:25:30 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:25:47 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:28:43 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:28:55 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.25 02:28:58 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/scala/clasesInmutables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.25 02:29:23 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:29:38 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:31:46 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:32:15 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:32:49 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:33:07 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:34:50 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:35:25 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:35:45 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:36:28 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:37:22 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:39:01 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:39:21 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:40:17 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:41:27 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:43:48 WARN  no build target for: /home/dgc7/ejersiciosLibros/scala/clasesInmutables/objetso/main.scala
+2020.07.25 02:43:50 INFO  shutting down Metals

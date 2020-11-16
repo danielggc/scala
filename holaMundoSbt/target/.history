@@ -1,0 +1,23 @@
+run
+clean
+run
+sbt run
+run
+sbt run
+ run
+compile
+run
+compile
+hello
+clena
+clean
+compile
+hello
+clear
+show hello
+show compile
+ compile
+clear
+clean
+compile
+clean

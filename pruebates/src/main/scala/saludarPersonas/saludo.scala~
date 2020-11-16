@@ -1,0 +1,9 @@
+class cordialidades {
+      def saludar{
+      	  print("hola como estas")
+      }
+      def despedir{
+            print("hchao feliz dai")
+      }
+
+}

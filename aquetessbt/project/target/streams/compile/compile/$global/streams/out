@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/dgc7/ejersiciosLibros/scala/aquetessbt/project/build.scala:3:30: not found: type Build[0m
+[0m[[0m[31merror[0m] [0m[0mobject PacktSubBuild extends Build {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
